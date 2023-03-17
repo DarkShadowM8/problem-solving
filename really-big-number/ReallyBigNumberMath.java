@@ -1,6 +1,6 @@
 /**
 *	~~Main class from where the code will execute
-*	~~this class has 2 methods "main", "add" and "parsingInt"
+*	~~this class has 3 methods "main", "add" and "parsingInt"
 **/
 
 public class ReallyBigNumberMath{
