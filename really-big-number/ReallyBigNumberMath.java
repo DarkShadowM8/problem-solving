@@ -17,6 +17,7 @@ public class ReallyBigNumberMath{
 	/**
 	*	~~add method have two String type parameters
 	*	~~add method work on the given arguments print the sum
+	*	Time Complexity of add is O(n)
 	**/
 	public static void add(String num_1, String num_2){
 		//	declaring 3 array of int type 
